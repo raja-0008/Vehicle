@@ -20,7 +20,7 @@ pip install -r requirements.txt
 python train_model.py
 
 # Run Application
-# python app.py(H2)
+# python app.py
 
 # Run
 python vehicle_counting.py
