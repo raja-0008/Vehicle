@@ -12,3 +12,15 @@ A Computer Vision project that detects, tracks, and counts vehicles from traffic
 2. OpenCV
 3. NumPy
 4. Computer Vision
+
+# Installation
+pip install -r requirements.txt
+
+# Train Model
+python train_model.py
+
+# Run Application
+# python app.py(H2)
+
+# Run
+python vehicle_counting.py
